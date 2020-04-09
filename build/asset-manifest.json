@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cliffgor.github.io/static/css/main.87564d34.chunk.css",
-    "main.js": "/cliffgor.github.io/static/js/main.add413b0.chunk.js",
-    "main.js.map": "/cliffgor.github.io/static/js/main.add413b0.chunk.js.map",
-    "runtime~main.js": "/cliffgor.github.io/static/js/runtime~main.ece7db0f.js",
-    "runtime~main.js.map": "/cliffgor.github.io/static/js/runtime~main.ece7db0f.js.map",
-    "static/js/2.dfedf3e6.chunk.js": "/cliffgor.github.io/static/js/2.dfedf3e6.chunk.js",
-    "static/js/2.dfedf3e6.chunk.js.map": "/cliffgor.github.io/static/js/2.dfedf3e6.chunk.js.map",
-    "index.html": "/cliffgor.github.io/index.html",
-    "precache-manifest.c1679d8e54f3153770de14346d97073a.js": "/cliffgor.github.io/precache-manifest.c1679d8e54f3153770de14346d97073a.js",
-    "service-worker.js": "/cliffgor.github.io/service-worker.js",
-    "static/css/main.87564d34.chunk.css.map": "/cliffgor.github.io/static/css/main.87564d34.chunk.css.map"
+    "main.css": "/cliffgor/cliffgor/build/index.html/static/css/main.87564d34.chunk.css",
+    "main.js": "/cliffgor/cliffgor/build/index.html/static/js/main.5a9dcceb.chunk.js",
+    "main.js.map": "/cliffgor/cliffgor/build/index.html/static/js/main.5a9dcceb.chunk.js.map",
+    "runtime~main.js": "/cliffgor/cliffgor/build/index.html/static/js/runtime~main.159c831d.js",
+    "runtime~main.js.map": "/cliffgor/cliffgor/build/index.html/static/js/runtime~main.159c831d.js.map",
+    "static/js/2.dfedf3e6.chunk.js": "/cliffgor/cliffgor/build/index.html/static/js/2.dfedf3e6.chunk.js",
+    "static/js/2.dfedf3e6.chunk.js.map": "/cliffgor/cliffgor/build/index.html/static/js/2.dfedf3e6.chunk.js.map",
+    "index.html": "/cliffgor/cliffgor/build/index.html/index.html",
+    "precache-manifest.d35951523738c40f43942880587b46aa.js": "/cliffgor/cliffgor/build/index.html/precache-manifest.d35951523738c40f43942880587b46aa.js",
+    "service-worker.js": "/cliffgor/cliffgor/build/index.html/service-worker.js",
+    "static/css/main.87564d34.chunk.css.map": "/cliffgor/cliffgor/build/index.html/static/css/main.87564d34.chunk.css.map"
   }
 }
