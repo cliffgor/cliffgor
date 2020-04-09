@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cliffgor/cliffgor/static/css/main.87564d34.chunk.css",
-    "main.js": "/cliffgor/cliffgor/static/js/main.09c8b54b.chunk.js",
-    "main.js.map": "/cliffgor/cliffgor/static/js/main.09c8b54b.chunk.js.map",
-    "runtime~main.js": "/cliffgor/cliffgor/static/js/runtime~main.c708ac75.js",
-    "runtime~main.js.map": "/cliffgor/cliffgor/static/js/runtime~main.c708ac75.js.map",
-    "static/js/2.dfedf3e6.chunk.js": "/cliffgor/cliffgor/static/js/2.dfedf3e6.chunk.js",
-    "static/js/2.dfedf3e6.chunk.js.map": "/cliffgor/cliffgor/static/js/2.dfedf3e6.chunk.js.map",
-    "index.html": "/cliffgor/cliffgor/index.html",
-    "precache-manifest.6ae6ba6984e585ee34a93c89de305c51.js": "/cliffgor/cliffgor/precache-manifest.6ae6ba6984e585ee34a93c89de305c51.js",
-    "service-worker.js": "/cliffgor/cliffgor/service-worker.js",
-    "static/css/main.87564d34.chunk.css.map": "/cliffgor/cliffgor/static/css/main.87564d34.chunk.css.map"
+    "main.css": "/cliffgor/cliffgor/build/index.html/static/css/main.87564d34.chunk.css",
+    "main.js": "/cliffgor/cliffgor/build/index.html/static/js/main.5a9dcceb.chunk.js",
+    "main.js.map": "/cliffgor/cliffgor/build/index.html/static/js/main.5a9dcceb.chunk.js.map",
+    "runtime~main.js": "/cliffgor/cliffgor/build/index.html/static/js/runtime~main.159c831d.js",
+    "runtime~main.js.map": "/cliffgor/cliffgor/build/index.html/static/js/runtime~main.159c831d.js.map",
+    "static/js/2.dfedf3e6.chunk.js": "/cliffgor/cliffgor/build/index.html/static/js/2.dfedf3e6.chunk.js",
+    "static/js/2.dfedf3e6.chunk.js.map": "/cliffgor/cliffgor/build/index.html/static/js/2.dfedf3e6.chunk.js.map",
+    "index.html": "/cliffgor/cliffgor/build/index.html/index.html",
+    "precache-manifest.d35951523738c40f43942880587b46aa.js": "/cliffgor/cliffgor/build/index.html/precache-manifest.d35951523738c40f43942880587b46aa.js",
+    "service-worker.js": "/cliffgor/cliffgor/build/index.html/service-worker.js",
+    "static/css/main.87564d34.chunk.css.map": "/cliffgor/cliffgor/build/index.html/static/css/main.87564d34.chunk.css.map"
   }
 }
