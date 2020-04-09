@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cliffgor/static/css/main.87564d34.chunk.css",
+    "main.js": "/cliffgor/static/js/main.8bec1257.chunk.js",
+    "main.js.map": "/cliffgor/static/js/main.8bec1257.chunk.js.map",
+    "runtime~main.js": "/cliffgor/static/js/runtime~main.184bdf87.js",
+    "runtime~main.js.map": "/cliffgor/static/js/runtime~main.184bdf87.js.map",
+    "static/js/2.dfedf3e6.chunk.js": "/cliffgor/static/js/2.dfedf3e6.chunk.js",
+    "static/js/2.dfedf3e6.chunk.js.map": "/cliffgor/static/js/2.dfedf3e6.chunk.js.map",
+    "index.html": "/cliffgor/index.html",
+    "precache-manifest.99f8402bf92293d6e736fb92296dc5ae.js": "/cliffgor/precache-manifest.99f8402bf92293d6e736fb92296dc5ae.js",
+    "service-worker.js": "/cliffgor/service-worker.js",
+    "static/css/main.87564d34.chunk.css.map": "/cliffgor/static/css/main.87564d34.chunk.css.map"
+  }
+}
